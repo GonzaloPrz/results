@@ -1,0 +1,74 @@
+{
+    "project_name": "arequipa",
+    "stats": "mean",
+    "shuffle_labels": false,
+    "shuffle_all": true,
+    "stratify": true,
+    "calibrate": false,
+    "n_folds": 5.0,
+    "n_iter": 0.0,
+    "n_iter_features": 50.0,
+    "feature_sample_ratio": 0.5,
+    "n_seeds_train": 10.0,
+    "n_seeds_shuffle": 0.0,
+    "scaler_name": "StandardScaler",
+    "id_col": "id",
+    "n_models": 0.0,
+    "n_boot": 1000.0,
+    "bayesian": false,
+    "filter_outliers": false,
+    "early_fusion": true,
+    "n_boot_test": 1000.0,
+    "n_boot_train": 0.0,
+    "overwrite": false,
+    "parallel": true,
+    "n_seeds_test": 1.0,
+    "bootstrap_method": "bca",
+    "bayes": false,
+    "test_size": 0.0,
+    "data_file": "data_matched_group.csv",
+    "tasks": [
+        "craft",
+        "lamina2",
+        "fugu",
+        "dia_tipico",
+        "recuerdo_agradable"
+    ],
+    "single_dimensions": [
+        "mlu__universal_dependencies__verbosity__word_properties__talking_intervals"
+    ],
+    "scoring_metrics": "roc_auc",
+    "problem_type": "clf",
+    "y_labels": [
+        "group"
+    ],
+    "avoid_stats": [
+        "std",
+        "skewness",
+        "kurtosis",
+        "variability",
+        "max",
+        "median",
+        "min"
+    ],
+    "stat_folder": "mean",
+    "random_seeds_train": [
+        3.0,
+        9.0,
+        27.0,
+        81.0,
+        243.0,
+        729.0,
+        2187.0,
+        6561.0,
+        19683.0,
+        59049.0
+    ],
+    "random_seeds_test": [
+        ""
+    ],
+    "random_seeds_shuffle": [
+        ""
+    ],
+    "kfold_folder": "5_folds"
+}

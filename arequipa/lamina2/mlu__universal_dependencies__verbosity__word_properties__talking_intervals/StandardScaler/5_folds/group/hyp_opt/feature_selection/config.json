@@ -1,0 +1,61 @@
+{
+    "project_name": "arequipa",
+    "stats": "",
+    "shuffle_labels": false,
+    "shuffle_all": true,
+    "stratify": true,
+    "calibrate": false,
+    "n_folds": 5.0,
+    "n_iter": 20.0,
+    "n_iter_features": 20.0,
+    "feature_sample_ratio": 0.5,
+    "n_seeds_train": 1.0,
+    "n_seeds_shuffle": 0.0,
+    "scaler_name": "StandardScaler",
+    "id_col": "id",
+    "n_models": 0.0,
+    "n_boot": 1000.0,
+    "bayesian": false,
+    "filter_outliers": false,
+    "early_fusion": true,
+    "n_boot_test": 1000.0,
+    "n_boot_train": 0.0,
+    "overwrite": true,
+    "parallel": true,
+    "n_seeds_test": 1.0,
+    "bootstrap_method": "bca",
+    "bayes": false,
+    "add_dem": false,
+    "test_size": 0.0,
+    "data_file": "data_matched_group.csv",
+    "tasks": [
+        "craft",
+        "lamina2",
+        "fugu",
+        "dia_tipico",
+        "recuerdo_agradable",
+        "craft__fugu__lamina2",
+        "dia_tipico__recuerdo_agradable"
+    ],
+    "single_dimensions": [
+        "composite",
+        "mlu__universal_dependencies__verbosity__word_properties__talking_intervals"
+    ],
+    "scoring_metrics": "roc_auc",
+    "problem_type": "clf",
+    "y_labels": [
+        "group"
+    ],
+    "avoid_stats": [],
+    "stat_folder": "",
+    "random_seeds_train": [
+        3.0
+    ],
+    "random_seeds_test": [
+        ""
+    ],
+    "random_seeds_shuffle": [
+        ""
+    ],
+    "kfold_folder": "5_folds"
+}
