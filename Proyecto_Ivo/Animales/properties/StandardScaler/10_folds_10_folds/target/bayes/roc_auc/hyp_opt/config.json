@@ -1,0 +1,89 @@
+{
+    "project_name": "Proyecto_Ivo",
+    "stats": "",
+    "shuffle_labels": false,
+    "shuffle_all": true,
+    "stratify": true,
+    "calibrate": false,
+    "n_folds_outer": 10.0,
+    "n_folds_inner": 10.0,
+    "n_iter": 15.0,
+    "feature_selection": false,
+    "init_points": 50.0,
+    "n_seeds_train": 10.0,
+    "n_seeds_shuffle": 0.0,
+    "scaler_name": "StandardScaler",
+    "id_col": "id",
+    "n_boot": 1000.0,
+    "n_boot_test": 1000.0,
+    "n_boot_train": 0.0,
+    "filter_outliers": false,
+    "early_fusion": false,
+    "overwrite": false,
+    "parallel": true,
+    "n_seeds_test": 0,
+    "bootstrap_method": "percentile",
+    "round_values": false,
+    "add_dem": false,
+    "test_size": 0.0,
+    "data_file": "all_data.csv",
+    "tasks": [
+        "nps",
+        "Animales",
+        "brain",
+        "connectivity"
+    ],
+    "single_dimensions": {
+        "Animales": [
+            "properties"
+        ],
+        "P": [
+            "properties",
+            "timing"
+        ],
+        "Animales__P": [
+            "properties",
+            "timing"
+        ],
+        "nps": [
+            "executive",
+            "mmse"
+        ],
+        "brain": [
+            "norm_brain_lit"
+        ],
+        "AAL": [
+            "norm_AAL"
+        ],
+        "connectivity": [
+            "networks"
+        ]
+    },
+    "y_labels": [
+        "target"
+    ],
+    "avoid_stats": [],
+    "stat_folder": "",
+    "random_seeds_train": [
+        3,
+        9,
+        27,
+        81,
+        243,
+        729,
+        2187,
+        6561,
+        19683,
+        59049
+    ],
+    "random_seeds_test": [
+        ""
+    ],
+    "random_seeds_shuffle": [
+        ""
+    ],
+    "bayes": true,
+    "problem_type": "clf",
+    "kfold_folder": "10_folds_10_folds",
+    "scoring_metric": "roc_auc"
+}

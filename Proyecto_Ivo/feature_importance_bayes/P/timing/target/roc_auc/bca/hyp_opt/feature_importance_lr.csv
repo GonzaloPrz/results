@@ -1,0 +1,8 @@
+feature,importance
+P__timing__speechrate,0.2742443260365795
+P__timing__pause_duration_mean,0.2598026837302893
+P__timing__nsyll,0.2365647219797388
+P__timing__pause_duration_std,0.12252515486616804
+P__timing__npauses,0.06932375780483604
+P__timing__syllable_duration_mean,0.03102736680099753
+P__timing__syllable_duration_std,0.006511988781390593
