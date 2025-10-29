@@ -39,15 +39,18 @@
     "single_dimensions": {
         "Animales": [
             "properties",
-            "timing"
+            "timing",
+            "vr"
         ],
         "P": [
             "properties",
-            "timing"
+            "timing",
+            "vr"
         ],
         "Animales__P": [
             "properties",
-            "timing"
+            "timing",
+            "vr"
         ],
         "nps": [
             "executive",
