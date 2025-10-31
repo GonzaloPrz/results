@@ -1,7 +1,4 @@
 feature,importance
-nps__executive__tmt_a,0.35817625820724114
-nps__executive__tmt_b,0.320236731833872
-nps__executive__tmt_a_err,0.21182283116957792
-nps__executive__digits_backward_span,0.044710809898727936
-nps__executive__digits_forward_span,0.04330197451511432
-nps__executive__tmt_b_err,0.02175139437546659
+nps__executive__tmt_a,0.3949217258409559
+nps__executive__tmt_b,0.38342928419616995
+nps__executive__tmt_a_err,0.22164898996287422

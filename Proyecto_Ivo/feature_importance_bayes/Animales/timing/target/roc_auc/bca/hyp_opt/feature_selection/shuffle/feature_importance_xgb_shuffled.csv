@@ -1,7 +1,7 @@
 feature,importance
-Animales__timing__nsyll,0.33019412
-Animales__timing__pause_duration_mean,0.20866714
-Animales__timing__syllable_duration_mean,0.12920003
-Animales__timing__pause_duration_std,0.12690687
-Animales__timing__syllable_duration_std,0.10509066
-Animales__timing__speechrate,0.09994115
+Animales__timing__nsyll,0.2958005
+Animales__timing__pause_duration_mean,0.18294768
+Animales__timing__speechrate,0.14251861
+Animales__timing__pause_duration_std,0.14115854
+Animales__timing__syllable_duration_mean,0.12865981
+Animales__timing__syllable_duration_std,0.10891486

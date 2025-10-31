@@ -27,30 +27,31 @@
     "add_dem": false,
     "cut_values": -1.0,
     "test_size": 0.0,
-    "data_file": "all_data.csv",
+    "data_file": "all_data_with_means.csv",
     "tasks": [
         "nps",
         "Animales",
-        "P",
         "Animales__P",
         "brain",
-        "connectivity"
+        "connectivity",
+        "grandmean"
     ],
     "single_dimensions": {
         "Animales": [
             "properties",
-            "timing",
-            "vr"
+            "timing"
         ],
         "P": [
             "properties",
-            "timing",
-            "vr"
+            "timing"
         ],
         "Animales__P": [
             "properties",
-            "timing",
-            "vr"
+            "timing"
+        ],
+        "grandmean": [
+            "properties",
+            "timing"
         ],
         "nps": [
             "executive",
