@@ -1,0 +1,15 @@
+feature,importance
+rutina__speech_timing__nsyll,1.0
+rutina__speech_timing__npauses,1.0
+rutina__speech_timing__syllable_duration_kurtosis,1.0
+rutina__speech_timing__syllable_duration_skewness,1.0
+rutina__speech_timing__syllable_duration_max,1.0
+rutina__speech_timing__syllable_duration_min,1.0
+rutina__speech_timing__pause_duration_kurtosis,1.0
+rutina__speech_timing__pause_duration_max,1.0
+rutina__speech_timing__pause_duration_min,1.0
+rutina__speech_timing__speechrate,1.0
+rutina__speech_timing__mean_syllable_duration,1.0
+rutina__speech_timing__syllable_duration_std,1.0
+rutina__speech_timing__mean_pause_duration,1.0
+rutina__speech_timing__pause_duration_std,1.0

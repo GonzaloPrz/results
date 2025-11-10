@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,alpha,agradable__pitch__pitch_std,agradable__pitch__pitch_skewness,agradable__pitch__pitch_kurtosis,agradable__pitch__pitch_max,agradable__pitch__pitch_min,agradable__pitch__jitter_skewness,agradable__pitch__jitter_kurtosis,agradable__pitch__jitter_max,agradable__pitch__jitter_min,agradable__pitch__shimmer_skewness,agradable__pitch__shimmer_kurtosis,agradable__pitch__shimmer_max,agradable__pitch__shimmer_min,agradable__pitch__hnr_skewness,agradable__pitch__hnr_kurtosis,agradable__pitch__hnr_max,agradable__pitch__hnr_min,agradable__pitch__query_duration,agradable__pitch__pitch_mean,agradable__pitch__jitter_mean,agradable__pitch__jitter_std,agradable__pitch__shimmer_mean,agradable__pitch__shimmer_std,agradable__pitch__hnr_mean,agradable__pitch__hnr_std
+3,0,[None],-0.08183711995319265,9997.893735011807,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1
+3,1,[None],-0.06789879253367936,9997.893752991118,0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1
+3,2,[None],-0.0010177800121446978,205.84495275217952,1,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0,1,0,0,0,1,0,0
+3,3,[None],-0.03222853095451628,10000.0,1,1,1,1,0,1,0,1,1,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0
+3,4,[None],-0.015018151508684463,512.3734913926983,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,1,1,0,1,0,0,0

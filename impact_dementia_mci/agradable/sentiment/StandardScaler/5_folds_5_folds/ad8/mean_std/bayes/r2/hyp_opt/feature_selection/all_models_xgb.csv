@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,max_depth,n_estimators,learning_rate,agradable__sentiment__NEG,agradable__sentiment__NEU,agradable__sentiment__POS
+3,0,[None],-0.45728891508526504,2,23,0.3260050004325011,1,0,1
+3,1,[None],-0.08129919908775896,4,141,0.001,0,1,0
+3,2,[None],-0.08741370689977357,1,20,0.001,1,1,1
+3,3,[None],-0.03448320062115795,1,21,0.001,0,1,0
+3,4,[None],-0.048708862193267644,1,25,0.001,0,1,0

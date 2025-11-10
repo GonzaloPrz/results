@@ -1,0 +1,11 @@
+feature,importance
+rutina__sentiment__NEG,
+rutina__sentiment__NEU,
+rutina__sentiment__POS,
+agradable__sentiment__NEG,
+agradable__sentiment__NEU,
+agradable__sentiment__POS,
+video_retelling__sentiment__NEG,
+video_retelling__sentiment__NEU,
+video_retelling__sentiment__POS,
+agradable__rutina__video_retelling__dem__age,

@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,max_depth,n_estimators,learning_rate,rutina__speech_timing__nsyll,rutina__speech_timing__npauses,rutina__speech_timing__speechrate,rutina__speech_timing__mean_syllable_duration,rutina__speech_timing__syllable_duration_std,rutina__speech_timing__mean_pause_duration,rutina__speech_timing__pause_duration_std,rutina__word_properties__mean_log_frq,rutina__word_properties__mean_num_phonemes,rutina__word_properties__mean_num_syll,rutina__word_properties__mean_phon_neigh
+3,0,[None],-0.01539348008483632,2,428,0.001,1,1,1,0,0,0,1,0,1,1,0
+3,1,[None],0.09512988855361781,2,152,0.5252316752006057,1,0,0,1,1,0,0,1,1,1,1
+3,2,[None],0.18279436648057878,2,23,0.6618856256820105,1,1,1,1,0,0,0,1,1,0,1
+3,3,[None],0.22017018667649313,1,454,1.0,0,1,0,1,1,1,1,1,1,1,1
+3,4,[None],0.1505365301916768,1,433,1.0,1,1,0,1,0,1,1,0,1,1,1

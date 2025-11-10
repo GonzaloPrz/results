@@ -1,0 +1,15 @@
+feature,importance
+rutina__sentiment__NEG,1.0
+rutina__sentiment__NEU,1.0
+rutina__sentiment__POS,1.0
+video_retelling__sentiment__NEG,1.0
+video_retelling__sentiment__NEU,1.0
+rutina__word_properties__mean_log_frq,1.0
+rutina__word_properties__mean_num_phonemes,1.0
+rutina__word_properties__mean_num_syll,1.0
+rutina__word_properties__mean_phon_neigh,1.0
+video_retelling__word_properties__mean_log_frq,1.0
+video_retelling__word_properties__mean_num_phonemes,1.0
+video_retelling__word_properties__mean_num_syll,1.0
+video_retelling__word_properties__mean_phon_neigh,1.0
+rutina__video_retelling__dem__age,1.0

@@ -1,0 +1,61 @@
+{
+    "project_name": "impact_dementia_mci",
+    "stats": "",
+    "shuffle_labels": false,
+    "shuffle_all": true,
+    "stratify": true,
+    "calibrate": false,
+    "n_folds_outer": 5.0,
+    "n_folds_inner": 5.0,
+    "n_iter": 15.0,
+    "feature_selection": true,
+    "init_points": 20.0,
+    "n_seeds_train": 1.0,
+    "n_seeds_shuffle": 0.0,
+    "scaler_name": "StandardScaler",
+    "id_col": "id",
+    "n_boot": 1000.0,
+    "n_boot_test": 1000.0,
+    "n_boot_train": 0.0,
+    "filter_outliers": false,
+    "early_fusion": true,
+    "overwrite": false,
+    "parallel": true,
+    "n_seeds_test": 0,
+    "bootstrap_method": "bca",
+    "round_values": false,
+    "add_dem": false,
+    "cut_values": -1.0,
+    "test_size": 0.0,
+    "data_file": "all_data_mci.csv",
+    "tasks": [
+        "rutina",
+        "rutina__video_retelling",
+        "agradable__rutina",
+        "agradable__rutina__video_retelling"
+    ],
+    "single_dimensions": [
+        "pitch",
+        "speech_timing",
+        "word_properties"
+    ],
+    "y_labels": [
+        "rudas",
+        "ad8"
+    ],
+    "avoid_stats": [],
+    "stat_folder": "",
+    "random_seeds_train": [
+        3
+    ],
+    "random_seeds_test": [
+        ""
+    ],
+    "random_seeds_shuffle": [
+        ""
+    ],
+    "bayes": true,
+    "problem_type": "reg",
+    "kfold_folder": "5_folds_5_folds",
+    "scoring_metric": "r2"
+}

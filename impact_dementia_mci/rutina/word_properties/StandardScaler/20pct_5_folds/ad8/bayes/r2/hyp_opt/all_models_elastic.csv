@@ -1,0 +1,2 @@
+random_seed,fold,threshold,r2,alpha,l1_ratio,rutina__word_properties__mean_log_frq,rutina__word_properties__mean_num_phonemes,rutina__word_properties__mean_num_syll,rutina__word_properties__mean_phon_neigh
+3,0,[None],,0.16737280980870695,0.8907517031004873,1,1,1,1

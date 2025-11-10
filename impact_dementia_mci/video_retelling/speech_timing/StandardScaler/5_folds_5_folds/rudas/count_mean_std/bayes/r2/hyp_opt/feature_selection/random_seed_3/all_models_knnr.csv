@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,n_neighbors,video_retelling__speech_timing__nsyll,video_retelling__speech_timing__npauses,video_retelling__speech_timing__speechrate,video_retelling__speech_timing__mean_syllable_duration,video_retelling__speech_timing__syllable_duration_std,video_retelling__speech_timing__mean_pause_duration,video_retelling__speech_timing__pause_duration_std
+3,0,[None],0.03749884774187806,24,0,0,1,1,0,1,0
+3,1,[None],-0.022154723215728422,57,1,1,1,1,1,1,1
+3,2,[None],-0.02586977935382162,45,1,0,1,1,1,0,0
+3,3,[None],0.048609525725021085,11,0,1,0,1,0,0,1
+3,4,[None],-0.004589022718664459,36,1,0,1,0,1,1,0

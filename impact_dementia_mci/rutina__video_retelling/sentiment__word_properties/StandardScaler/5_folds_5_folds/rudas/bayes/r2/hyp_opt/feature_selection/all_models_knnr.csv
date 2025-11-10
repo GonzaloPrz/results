@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,n_neighbors,rutina__sentiment__NEG,rutina__sentiment__NEU,rutina__sentiment__POS,video_retelling__sentiment__NEG,video_retelling__sentiment__NEU,video_retelling__sentiment__POS,rutina__word_properties__mean_log_frq,rutina__word_properties__mean_num_phonemes,rutina__word_properties__mean_num_syll,rutina__word_properties__mean_phon_neigh,video_retelling__word_properties__mean_log_frq,video_retelling__word_properties__mean_num_phonemes,video_retelling__word_properties__mean_num_syll,video_retelling__word_properties__mean_phon_neigh
+3,0,[None],0.1056521392680364,16,1,1,1,0,1,1,1,0,0,1,0,1,0,1
+3,1,[None],0.11228024312136475,13,0,0,1,0,1,0,0,0,1,0,1,0,0,0
+3,2,[None],-0.011530428428971007,14,1,1,1,1,1,0,1,1,1,1,0,1,1,1
+3,3,[None],0.11371519450306977,16,1,1,1,1,1,1,1,0,1,1,1,1,1,0
+3,4,[None],0.004704010623171606,27,0,1,0,0,0,0,1,1,1,1,1,1,0,1

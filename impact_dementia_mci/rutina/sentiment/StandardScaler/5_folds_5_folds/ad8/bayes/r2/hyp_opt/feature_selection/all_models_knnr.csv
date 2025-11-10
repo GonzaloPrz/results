@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,n_neighbors,rutina__sentiment__NEG,rutina__sentiment__NEU,rutina__sentiment__POS
+3,0,[None],-0.056353940708604666,18,1,1,1
+3,1,[None],-0.06103071679787453,23,1,0,1
+3,2,[None],-0.06640979689366788,20,1,1,1
+3,3,[None],-0.029275983594732047,22,1,1,0
+3,4,[None],-0.0112361973775017,21,0,0,1

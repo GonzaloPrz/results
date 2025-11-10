@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,alpha,rutina__sentiment__NEG,rutina__sentiment__NEU,rutina__sentiment__POS,video_retelling__sentiment__NEG,video_retelling__sentiment__NEU,video_retelling__sentiment__POS
+3,0,[None],0.0725274215149907,17.062517229535512,1,0,1,0,1,0
+3,1,[None],-0.08563787447325866,205.84495275217952,0,1,1,0,1,0
+3,2,[None],-0.07828219094779709,10000.0,1,1,1,0,0,0
+3,3,[None],0.17921903609699374,9.93719758732029,0,1,1,1,0,1
+3,4,[None],-0.00922211559390318,9997.893753719296,0,0,0,0,1,0

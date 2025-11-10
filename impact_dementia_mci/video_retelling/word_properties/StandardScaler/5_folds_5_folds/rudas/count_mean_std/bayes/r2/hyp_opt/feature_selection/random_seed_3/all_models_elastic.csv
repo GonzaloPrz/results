@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,alpha,l1_ratio,video_retelling__word_properties__word_properties_std_concr,video_retelling__word_properties__word_properties_kurt_concr,video_retelling__word_properties__word_properties_skew_concr,video_retelling__word_properties__word_properties_mean_concr,video_retelling__word_properties__mean_log_frq,video_retelling__word_properties__mean_num_phonemes,video_retelling__word_properties__mean_num_syll,video_retelling__word_properties__mean_phon_neigh
+3,0,[None],-0.011254649551454943,3745.401194728224,0.9507143064099162,1,1,1,1,1,1,1,1
+3,1,[None],-0.026302977889592905,3745.401194728224,0.9507143064099162,1,1,1,1,1,1,1,1
+3,2,[None],-0.05161236702127647,3745.401194728224,0.9507143064099162,1,1,1,1,1,1,1,1
+3,3,[None],-0.021417006035032493,3745.401194728224,0.9507143064099162,1,1,1,1,1,1,1,1
+3,4,[None],-0.02807107166230116,3745.401194728224,0.9507143064099162,1,1,1,1,1,1,1,1

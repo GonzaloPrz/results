@@ -1,0 +1,10 @@
+feature,importance
+rutina__word_properties__mean_log_frq,
+rutina__word_properties__mean_num_phonemes,
+rutina__word_properties__mean_num_syll,
+rutina__word_properties__mean_phon_neigh,
+agradable__word_properties__mean_log_frq,
+agradable__word_properties__mean_num_phonemes,
+agradable__word_properties__mean_num_syll,
+agradable__word_properties__mean_phon_neigh,
+agradable__rutina__dem__sex,

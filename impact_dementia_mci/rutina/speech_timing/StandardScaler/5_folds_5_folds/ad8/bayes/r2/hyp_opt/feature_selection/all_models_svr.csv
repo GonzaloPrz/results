@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,C,gamma,rutina__speech_timing__nsyll,rutina__speech_timing__npauses,rutina__speech_timing__syllable_duration_kurtosis,rutina__speech_timing__syllable_duration_skewness,rutina__speech_timing__syllable_duration_max,rutina__speech_timing__syllable_duration_min,rutina__speech_timing__pause_duration_kurtosis,rutina__speech_timing__pause_duration_skewness,rutina__speech_timing__pause_duration_max,rutina__speech_timing__pause_duration_min,rutina__speech_timing__speechrate,rutina__speech_timing__mean_syllable_duration,rutina__speech_timing__syllable_duration_std,rutina__speech_timing__mean_pause_duration,rutina__speech_timing__pause_duration_std
+3,0,[None],-0.15020665962730573,93.94990020652476,8948.273514793753,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,1,[None],-0.167251591858252,0.0001,2463.0786408915337,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,2,[None],-0.34720104791501316,3.4389486726697283,9093.20402985578,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,3,[None],-0.13425242209476296,0.0001,9712.030969786765,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+3,4,[None],-0.23031161584883586,0.07928543398589603,5893.934130591724,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

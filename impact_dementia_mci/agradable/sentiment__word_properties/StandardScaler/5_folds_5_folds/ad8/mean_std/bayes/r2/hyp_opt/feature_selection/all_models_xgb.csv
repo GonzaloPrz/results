@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,max_depth,n_estimators,learning_rate,agradable__sentiment__NEG,agradable__sentiment__NEU,agradable__sentiment__POS,agradable__word_properties__mean_log_frq,agradable__word_properties__mean_num_phonemes,agradable__word_properties__mean_num_syll,agradable__word_properties__mean_phon_neigh
+3,0,[None],-0.07677497176170589,5,22,0.001,1,0,0,1,1,0,1
+3,1,[None],0.06748682678391094,4,475,0.7858644350500753,0,1,0,1,0,0,0
+3,2,[None],-0.08882423231276504,2,23,0.001,1,1,1,1,0,0,0
+3,3,[None],-0.16000087922057404,8,28,0.08395718459345029,0,0,0,1,0,0,1
+3,4,[None],0.009500442814561194,8,82,0.0015978436115873936,0,1,0,1,0,0,0

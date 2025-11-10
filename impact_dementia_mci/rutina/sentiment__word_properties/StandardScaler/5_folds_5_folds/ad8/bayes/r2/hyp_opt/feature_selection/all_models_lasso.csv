@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,alpha,rutina__sentiment__NEG,rutina__sentiment__NEU,rutina__sentiment__POS,rutina__word_properties__mean_log_frq,rutina__word_properties__mean_num_phonemes,rutina__word_properties__mean_num_syll,rutina__word_properties__mean_phon_neigh
+3,0,[None],0.05165589034274387,0.12616417947044206,1,1,1,1,1,1,0
+3,1,[None],0.13097058555493246,0.05535276401723402,0,1,0,0,1,1,0
+3,2,[None],0.25412034735447064,0.05535276401723402,1,0,0,0,1,0,0
+3,3,[None],0.23799022248571677,0.05535276332334463,1,0,0,1,1,0,0
+3,4,[None],0.06564801554048438,0.14324557951747607,1,0,0,1,1,1,1

@@ -1,0 +1,6 @@
+random_seed,fold,threshold,r2,n_neighbors,rutina__sentiment__NEG,rutina__sentiment__NEU,rutina__sentiment__POS,agradable__sentiment__NEG,agradable__sentiment__NEU,agradable__sentiment__POS,agradable__rutina__dem__age,agradable__rutina__dem__sex
+3,0,[None],0.20056184690765444,8,0,1,0,1,1,1,1,0
+3,1,[None],-0.020256773340885603,15,1,1,1,1,1,1,1,0
+3,2,[None],0.14697590632740376,10,0,1,1,1,1,0,1,0
+3,3,[None],0.2501279099513942,4,1,1,0,0,1,1,1,0
+3,4,[None],0.002871689252089804,26,1,1,1,1,0,1,1,1

@@ -1,0 +1,8 @@
+feature,importance
+rutina__sentiment__NEG,
+rutina__sentiment__NEU,
+rutina__sentiment__POS,
+rutina__word_properties__mean_log_frq,
+rutina__word_properties__mean_num_phonemes,
+rutina__word_properties__mean_num_syll,
+rutina__word_properties__mean_phon_neigh,
