@@ -1,0 +1,2 @@
+,n_neighbors,lamina2__composite__speech_timing,lamina2__composite__text_level,lamina2__composite__word_level,bootstrap_method,roc_auc,accuracy,f1,recall,precision,norm_expected_cost,norm_cross_entropy
+0,27,1,1,0,bca,"0.48012, (0.43846, 0.52532)","0.48818, (0.45622, 0.52386)","0.49597, (0.45430, 0.54549)","0.50364, (0.46242, 0.55058)","0.48854, (0.42588, 0.54487)","1.02364, (0.91915, 1.07453)","1.01195, (0.99874, 1.02228)"

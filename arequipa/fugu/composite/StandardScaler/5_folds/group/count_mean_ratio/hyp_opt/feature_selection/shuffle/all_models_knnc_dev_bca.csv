@@ -1,0 +1,2 @@
+,n_neighbors,fugu__composite__speech_timing,fugu__composite__text_level,fugu__composite__word_level,bootstrap_method,roc_auc,accuracy,f1,recall,precision,norm_expected_cost,norm_cross_entropy
+0,19,1,0,0,bca,"0.49976, (0.45958, 0.54227)","0.51023, (0.47372, 0.54556)","0.54295, (0.49319, 0.58524)","0.58182, (0.53748, 0.62882)","0.50895, (0.44447, 0.56348)","0.97955, (0.88438, 1.03582)","1.02297, (1.00327, 1.04183)"

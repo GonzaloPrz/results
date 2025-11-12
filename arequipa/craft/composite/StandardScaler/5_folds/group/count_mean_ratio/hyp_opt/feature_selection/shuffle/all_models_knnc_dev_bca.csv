@@ -1,0 +1,2 @@
+,n_neighbors,craft__composite__speech_timing,craft__composite__text_level,craft__composite__word_level,bootstrap_method,roc_auc,accuracy,f1,recall,precision,norm_expected_cost,norm_cross_entropy
+0,27,1,0,0,bca,"0.48777, (0.44148, 0.52619)","0.49432, (0.45418, 0.53027)","0.52058, (0.46455, 0.56474)","0.54909, (0.50359, 0.59470)","0.49488, (0.42118, 0.55840)","1.01136, (0.90379, 1.06316)","1.01217, (0.99982, 1.02481)"

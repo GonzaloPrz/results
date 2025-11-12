@@ -19,7 +19,7 @@
     "n_boot_train": 0.0,
     "filter_outliers": false,
     "early_fusion": true,
-    "overwrite": true,
+    "overwrite": false,
     "parallel": true,
     "n_seeds_test": 0,
     "bootstrap_method": "bca",
@@ -35,6 +35,7 @@
         "agradable__rutina__video_retelling"
     ],
     "single_dimensions": [
+        "sentiment",
         "speech_timing",
         "word_properties"
     ],

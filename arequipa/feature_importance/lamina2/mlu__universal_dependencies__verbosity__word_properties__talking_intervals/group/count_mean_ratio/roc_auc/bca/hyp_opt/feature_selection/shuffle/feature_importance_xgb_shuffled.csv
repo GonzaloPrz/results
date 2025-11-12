@@ -1,0 +1,12 @@
+feature,importance
+lamina2__talking_intervals__nsyll,0.32025337
+lamina2__verbosity__ratio_adv_over_total,0.15974942
+lamina2__talking_intervals__pause_duration_mean,0.10211089
+lamina2__universal_dependencies__core_norm,0.08885666
+lamina2__verbosity__adv_count,0.080745354
+lamina2__word_properties__log_frq_mean,0.066418655
+lamina2__mlu__mlu,0.04883236
+lamina2__verbosity__mattr_all,0.04256922
+lamina2__verbosity__ratio_noun_over_total,0.038686335
+lamina2__verbosity__verb_count,0.035863373
+lamina2__universal_dependencies__non-dependency_norm,0.015914436
