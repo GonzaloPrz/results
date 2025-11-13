@@ -1,37 +1,5 @@
 task,dimension,y_label,set,random_seed,model_type,r,p_value_corrected,p_value,method,n,95_ci,covars,correction_method
-craft,composite,IFS,dev,,svr,0.41933121001666435,,0.012159644533454805,pearson,39,[0.1  0.66],"age,education,group,sex",fdr_bh
-craft,composite,IFS,test,,svr,0.10058952944928849,,0.7821733368198001,pearson,14,[-0.56  0.69],"age,education,group,sex",fdr_bh
-craft,composite,MOCA_TOTAL,dev,,lasso,0.07603277523718419,,0.6410000623955061,pearson,44,[-0.24  0.38],"age,education,group,sex",fdr_bh
-craft,composite,MOCA_TOTAL,test,,lasso,0.08762327841554139,,0.8097889682231798,pearson,14,[-0.57  0.68],"age,education,group,sex",fdr_bh
-craft,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,0.38496733064269834,,0.022395471225340427,pearson,39,[0.06 0.64],"age,education,group,sex",fdr_bh
-craft,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,test,,svr,0.044733428783538635,,0.902341203943374,pearson,14,[-0.6   0.66],"age,education,group,sex",fdr_bh
-craft,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.0670905198417004,,0.6808330670484473,pearson,44,[-0.25  0.37],"age,education,group,sex",fdr_bh
-craft,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,test,,lasso,-0.5421833531742316,,0.10543181915110766,pearson,14,[-0.87  0.13],"age,education,group,sex",fdr_bh
-lamina2,composite,IFS,dev,,elastic,0.33371969816599506,,0.05009107728154892,pearson,39,[0.  0.6],"age,education,group,sex",fdr_bh
-lamina2,composite,IFS,test,,elastic,-0.09964569892153086,,0.7841765012336546,pearson,14,[-0.69  0.57],"age,education,group,sex",fdr_bh
-lamina2,composite,MOCA_TOTAL,dev,,svr,0.4287542035917171,,0.005772848592808164,pearson,44,[0.14 0.65],"age,education,group,sex",fdr_bh
-lamina2,composite,MOCA_TOTAL,test,,svr,0.2572645010320545,,0.47302479577079026,pearson,14,[-0.44  0.76],"age,education,group,sex",fdr_bh
-lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,elastic,0.0968149533391416,,0.5800811796371605,pearson,39,[-0.24  0.42],"age,education,group,sex",fdr_bh
-lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,test,,elastic,-0.514867729597988,,0.1277991240415928,pearson,14,[-0.86  0.17],"age,education,group,sex",fdr_bh
-lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,svr,0.3954484581037702,,0.011549541842834708,pearson,44,[0.1  0.63],"age,education,group,sex",fdr_bh
-lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,test,,svr,-0.12274278360606952,,0.7355088883254126,pearson,14,[-0.7   0.55],"age,education,group,sex",fdr_bh
-fugu,composite,IFS,dev,,lasso,0.5697133664367603,,0.0003538732024900522,pearson,39,[0.29 0.76],"age,education,group,sex",fdr_bh
-fugu,composite,IFS,test,,lasso,-0.04745639890690056,,0.896422605126658,pearson,14,[-0.66  0.6 ],"age,education,group,sex",fdr_bh
-fugu,composite,MOCA_TOTAL,dev,,lasso,-0.2124156159497773,,0.1882043800814323,pearson,44,[-0.49  0.11],"age,education,group,sex",fdr_bh
-fugu,composite,MOCA_TOTAL,test,,lasso,,,,pearson,14,,"age,education,group,sex",fdr_bh
-fugu,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,lasso,0.33843394275241684,,0.04674473069488393,pearson,39,[0.01 0.6 ],"age,education,group,sex",fdr_bh
-fugu,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,test,,lasso,-0.0213821238952727,,0.9532479826867649,pearson,14,[-0.64  0.62],"age,education,group,sex",fdr_bh
-fugu,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.2173982475338693,,0.17780997888540886,pearson,44,[-0.1  0.5],"age,education,group,sex",fdr_bh
-fugu,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,test,,lasso,-0.5272989623820054,,0.11728646883302932,pearson,14,[-0.87  0.15],"age,education,group,sex",fdr_bh
-dia_tipico,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,0.380950179617375,,0.023959630217130375,pearson,39,[0.05 0.63],"age,education,group,sex",fdr_bh
-dia_tipico,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,test,,svr,0.43401676366387587,,0.21012303782418737,pearson,14,[-0.27  0.84],"age,education,group,sex",fdr_bh
-dia_tipico,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.41049560338087243,,0.008514259652578612,pearson,44,[0.11 0.64],"age,education,group,sex",fdr_bh
-dia_tipico,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,test,,lasso,0.5758249284782364,,0.08150880611496279,pearson,14,[-0.08  0.88],"age,education,group,sex",fdr_bh
-recuerdo_agradable,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,-0.008742609692230003,,0.9602463478887197,pearson,39,[-0.34  0.33],"age,education,group,sex",fdr_bh
-recuerdo_agradable,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,-0.39193616002286275,,0.012377666669380066,pearson,44,[-0.63 -0.09],"age,education,group,sex",fdr_bh
-craft__fugu__lamina2,composite,IFS,dev,,svr,0.49498683541058924,,0.0025027234158093705,pearson,39,[0.19 0.71],"age,education,group,sex",fdr_bh
-craft__fugu__lamina2,composite,MOCA_TOTAL,dev,,lasso,-0.04525007655870885,,0.7815853617674956,pearson,44,[-0.35  0.27],"age,education,group,sex",fdr_bh
-craft__fugu__lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,0.38503074996437836,,0.022371473468402046,pearson,39,[0.06 0.64],"age,education,group,sex",fdr_bh
-craft__fugu__lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.22284845152291535,,0.1669172567254842,pearson,44,[-0.1  0.5],"age,education,group,sex",fdr_bh
-dia_tipico__recuerdo_agradable,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,0.10030235356645953,,0.566444912509818,pearson,39,[-0.24  0.42],"age,education,group,sex",fdr_bh
-dia_tipico__recuerdo_agradable,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.14272595444756683,,0.37963753708243164,pearson,44,[-0.18  0.43],"age,education,group,sex",fdr_bh
+craft__fugu__lamina2,composite,IFS,dev,,svr,0.49498683541058924,0.010010893663237482,0.0025027234158093705,pearson,39,[0.19 0.71],"age,education,group,sex",fdr_bh
+craft__fugu__lamina2,composite,MOCA_TOTAL,dev,,lasso,-0.04525007655870885,0.7815853617674956,0.7815853617674956,pearson,44,[-0.35  0.27],"age,education,group,sex",fdr_bh
+craft__fugu__lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,IFS,dev,,svr,0.38503074996437836,0.04474294693680409,0.022371473468402046,pearson,39,[0.06 0.64],"age,education,group,sex",fdr_bh
+craft__fugu__lamina2,mlu__universal_dependencies__verbosity__word_properties__talking_intervals,MOCA_TOTAL,dev,,lasso,0.22284845152291535,0.22255634230064558,0.1669172567254842,pearson,44,[-0.1  0.5],"age,education,group,sex",fdr_bh
